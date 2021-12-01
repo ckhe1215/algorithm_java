@@ -2,8 +2,6 @@ package boj_class3;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-import java.util.Arrays;
-import java.util.Collections;
 
 public class Main11047 {
 
